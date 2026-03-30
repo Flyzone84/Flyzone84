@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 🔍 Cyber Security Researcher <br> 📊Data Engineer<br>👇🏽 Coding & Ethical Hacking Projects <br>
 # 💻 Tech Stack:
 ![Metasploit](https://img.shields.io/badge/Metasploit-%23E60000.svg?style=for-the-badge&logo=metasploit&logoColor=white)![Hydra](https://img.shields.io/badge/THC%20Hydra-%23FF6600.svg?style=for-the-badge&logo=hydra&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23326CE5.svg?style=for-the-badge&logo=kali-linux&logoColor=white)  ![Wireshark](https://img.shields.io/badge/Wireshark-%238B7B33.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
